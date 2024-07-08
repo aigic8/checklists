@@ -2,6 +2,9 @@
 
 ## Checklist
 
+- setup zsh
+  - install zsh
+  - setup oh my zsh
 - create a non-root user
 - setup password-less login for the root
 - setup password-less login for the user
