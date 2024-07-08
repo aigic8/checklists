@@ -2,13 +2,11 @@
 
 My personal lists of checklists for repetitive tasks to not to forget one.
 
-## Table of contents
+## List
 
 - [Setting up a server](#setting-up-a-server)
 
-## Checklists
-
-### Setting up a server
+## Setting up a server
 
 - upgrade server
   - [Fedora](https://docs.fedoraproject.org/en-US/quick-docs/upgrading-fedora-offline/)
@@ -50,7 +48,7 @@ passwd USERNAME
   - docker
     - [Fedora](https://developer.fedoraproject.org/tools/docker/docker-installation.html)
     - add non-root user ability to run docker `usermod -aG docker USERNAME`
-- setup firewall (TODO)
+- setup firewall (TODO) (OPTIONAL)
   - don't forget to **add the custom SSH port to firewall**
 - setup neovim configs from [dotenv](https://github.com/aigic8/dotenv)
 - setup tmux from [dotenv](https://github.com/aigic8/dotenv)
