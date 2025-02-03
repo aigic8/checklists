@@ -44,6 +44,7 @@ passwd USERNAME
   - curl
   - unzip
   - build-essentials (ubuntu only)
+  - fzf
   - [Node.js (fnm)](https://github.com/Schniz/fnm)
   - [bun](https://bun.sh/docs/installation#macos-and-linux)
   - [Go](https://go.dev/doc/install)
