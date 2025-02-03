@@ -35,7 +35,7 @@ passwd USERNAME
   ssh-copy-id -i ~/.ssh/id_ed25519.pub username@server_address
   ```
   - [disable password based authentication](https://linuxhandbook.com/ssh-disable-password-authentication/)
-- [change the default ssh port](https://linuxize.com/post/how-to-change-ssh-port-in-linux/)
+- [change the default ssh port](https://linuxize.com/post/how-to-change-ssh-port-in-linux/) (for Ubuntu 24, check the [following link also](https://askubuntu.com/a/1498456))
 - [add ssh config to your local machine](https://linuxize.com/post/using-the-ssh-config-file/) (OPTIONAL)
 - [install OhMyZSH](https://ohmyz.sh/#install)
 - install basic packages
